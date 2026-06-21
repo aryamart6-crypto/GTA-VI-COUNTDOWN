@@ -23,7 +23,6 @@ The HTML code for html gta vi countdown is:
     --glass-strong: rgba(255, 255, 255, 0.07);
     --glass-border: rgba(255, 255, 255, 0.09);
   }
-
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   html, body {
